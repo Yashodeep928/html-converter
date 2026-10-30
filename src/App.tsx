@@ -183,9 +183,6 @@ ${html}
           </div>
         </div>
 
-        <span className="header-badge">
-          React + TypeScript
-        </span>
       </header>
 
       <div className="workspace">
