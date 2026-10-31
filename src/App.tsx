@@ -604,9 +604,6 @@ ${html}
         </section>
       </div>
 
-      <footer className="app-footer">
-        Built with React + TypeScript · No backend required
-      </footer>
     </main>
   );
 }
